@@ -26,11 +26,13 @@
     "react-app-rewired": "^2.1.5",
     "react-async": "^10.0.1",
     "react-dom": "^16.13.1",
+    "react-id-swiper": "^3.0.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "^3.4.0",
     "react-swipeable-views": "^0.13.9",
     "reading-time": "^1.2.0",
     "source-map-explorer": "^2.4.1",
+    "swiper": "^5.3.7",
     "typeface-roboto": "0.0.75",
     "validate.js": "^0.13.1"
   },
